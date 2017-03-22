@@ -7,6 +7,13 @@
 Changelog
 ---------
 
+v2.4.7 2017-03-22
+=================
+
+* Use fully qualified urls for reset emails (#3486)
+* Fix edit_resource for resource with draft state (#3480)
+* Tag fix for group/organization pages (#3460)
+
 v2.4.6 2017-02-22
 =================
 
